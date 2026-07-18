@@ -1,0 +1,6 @@
+{
+  "name": "WZ Textile Marketplace",
+  "description": "Marketplace Multi Vendor UMKM, Jasa, Barang Bekas, dan Daur Ulang WZ TEXTILE BY AHM ONLINE GROUP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
